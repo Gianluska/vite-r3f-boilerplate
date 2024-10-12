@@ -142,12 +142,6 @@ To run the project, execute the following command:
 ❯ yarn dev
 ```
 
-or
-
-```sh
-❯ npm run dev
-```
-
 ---
 
 ## 🤝 Contributing
