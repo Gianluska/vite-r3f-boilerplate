@@ -1,7 +1,7 @@
 # `VITE-R3F-BOILERPLATE`
 
 <p align="left">
-	<img src="https://img.shields.io/github/license/Gianluska/vite-r3f-boilerplate?style=flat&logo=mit&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/license/Gianluska/vite-r3f-boilerplate?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Gianluska/vite-r3f-boilerplate?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Gianluska/vite-r3f-boilerplate?style=flat&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Gianluska/vite-r3f-boilerplate?style=flat&color=0080ff" alt="repo-language-count">
