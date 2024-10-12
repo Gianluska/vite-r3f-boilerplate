@@ -131,7 +131,7 @@ Build the project from source:
 
 3. Install the required dependencies:
 ```sh
-❯ ❯ yarn install
+❯ yarn install
 ```
 
 ### 🤖 Usage
@@ -139,13 +139,13 @@ Build the project from source:
 To run the project, execute the following command:
 
 ```sh
-❯ ❯ yarn dev
+❯ yarn dev
 ```
 
 or
 
 ```sh
-❯ ❯ npm run dev
+❯ npm run dev
 ```
 
 ---
